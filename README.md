@@ -5,3 +5,4 @@
 - [ ] Teminal comic reader with ASCII characters. Funny :)
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Video streaming web app with ASCII video.
+- [ ] Library 4 ACR122U communication with RUST.
