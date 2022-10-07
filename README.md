@@ -8,3 +8,5 @@
 - [ ] Rust ACR122U library.
 - [ ] Minecraft server.
 - [ ] Minecraft mod Java.
+- [ ] Learn OpenGL
+- [ ] C++ magnum stuff
