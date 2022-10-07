@@ -10,3 +10,6 @@
 - [ ] Minecraft mod Java.
 - [ ] Learn OpenGL
 - [ ] C++ magnum stuff
+- [ ] My own BitTorrent client. Fuck yeah!
+- [ ] Library for different reading different ebook formats (Python, Rust, or Ruby)
+
