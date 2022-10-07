@@ -6,3 +6,5 @@
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Video streaming web app with ASCII video.
 - [ ] Rust ACR122U library.
+- [ ] Minecraft server.
+- [ ] Minecraft mod Java.
