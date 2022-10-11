@@ -14,3 +14,5 @@
 - [ ] Library for different reading different ebook formats (Python, Rust, or Ruby)
 - [ ] Stuff related with GPS protocols
 - [ ] GPS Map reader
+
+### Feel free to add more ideas ;)
