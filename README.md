@@ -6,6 +6,7 @@
 - [ ] Shaders programming
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Rust terminal code editor (TUI)
+- [ ] 3D text generator for 3D printers (.stl format) 
 
 
 ### Others
