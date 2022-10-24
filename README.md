@@ -6,7 +6,7 @@
 - [ ] Shaders programming
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Rust terminal code editor (TUI)
-- [ ] 3D text generator for 3D printers (.stl format) 
+- [ ] Rust ebook reader
 
 
 ### Others
@@ -21,5 +21,6 @@
 - [ ] Library for different reading different ebook formats (Python, Rust, or Ruby)
 - [ ] Stuff related with GPS protocols
 - [ ] GPS Map reader
+- [ ] 3D text generator for 3D printers (.stl format) 
 
 ### Feel free to add more ideas ;)
