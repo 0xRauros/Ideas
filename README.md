@@ -7,6 +7,8 @@
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Rust terminal code editor (TUI)
 - [ ] Rust ebook reader
+- [ ] Low level 2D audio renderer
+- [ ] Book reader/management system (with pins for interest topics/sentences/etc)
 
 
 ### Others
