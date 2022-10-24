@@ -9,6 +9,7 @@
 - [ ] Rust ebook reader
 - [ ] Low level 2D audio renderer
 - [ ] Book reader/management system (with pins for interest topics/sentences/etc)
+- [ ] Music audio synthesizer 
 
 
 ### Others
