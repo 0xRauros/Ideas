@@ -3,13 +3,12 @@
 
 ### Priority
 
-- [ ] Shaders programming
+- [ ] Minimalist Terminal code editor in Python (https://github.com/textualize/rich-cli)
 - [ ] GameBoy emulator Rust or Python. May be both.
-- [ ] Rust terminal code editor (TUI)
 - [ ] Rust ebook reader
 - [ ] Low level 2D audio renderer
 - [ ] Book reader/management system (with pins for interest topics/sentences/etc)
-- [ ] Music audio synthesizer 
+
 
 
 ### Others
@@ -25,5 +24,7 @@
 - [ ] Stuff related with GPS protocols
 - [ ] GPS Map reader
 - [ ] 3D text generator for 3D printers (.stl format) 
+- [ ] Music audio synthesizer 
+- [ ] Shaders programming
 
 ### Feel free to add more ideas ;)
