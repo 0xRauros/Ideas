@@ -2,8 +2,8 @@
 ### Some ideas I would like to implement
 
 ### Priority
-
-- [ ] Minimalist Terminal code editor in Python (https://github.com/textualize/rich-cli)
+- [ ] Terminal (TUI) HEX editor (Rust or Python)
+- [ ] Minimalist Terminal (TUI) code editor in Python (https://github.com/textualize/rich-cli)
 - [ ] GameBoy emulator Rust or Python. May be both.
 - [ ] Rust ebook reader
 - [ ] Low level 2D audio renderer
