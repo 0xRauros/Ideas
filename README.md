@@ -2,6 +2,8 @@
 ### Some ideas I would like to implement
 
 ### Priority
+
+- [ ] TERMINAL (TUI) ebook, pdf, azw3 reader 
 - [ ] Terminal (TUI) HEX editor (Rust or Python)
 - [ ] Minimalist Terminal (TUI) code editor in Python (https://github.com/textualize/rich-cli)
 - [ ] GameBoy emulator Rust or Python. May be both.
