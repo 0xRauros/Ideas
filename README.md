@@ -5,18 +5,15 @@
 
 - [ ] TERMINAL (TUI) ebook, pdf, azw3, CBR, CBZ, ... reader 
 - [ ] Terminal (TUI) HEX editor (Rust or Python)
-- [ ] Minimalist Terminal (TUI) code editor in Python (https://github.com/textualize/rich-cli)
 - [ ] GameBoy emulator Rust or Python. May be both.
-- [ ] Rust ebook reader
-- [ ] Low level 2D audio renderer
-- [ ] 3D graphics renderes
+- [ ] Rust ebook/comic/reader/manager
+- [ ] Low level 2D audio wave renderer
+- [ ] 3D graphics renderer
 
 
 
 
 ### Others
-
-- [ ] Terminal renderer 4 Markdown, pdf, azw3, epub, ...
 - [ ] Teminal comic reader with ASCII characters. Funny :)
 - [ ] Video streaming web app with ASCII video.
 - [ ] Rust ACR122U library.
